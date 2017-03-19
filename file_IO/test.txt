@@ -1,0 +1,5 @@
+teste 10.0
+teste 10.0
+teste <random.Random object at 0xff23a0>
+teste <random.Random object at 0x278c3a0>
+teste <random.Random object at 0x242b3a0>
