@@ -1,6 +1,7 @@
 # For is used to loop a code as many times as we need
 # it's recommended in cases when we know exactly how
 # many times we need to execute a code, in collections for example
+#### IMPORTANT: it's highly recommended to use generators for iterating values (loops, etc) since python ALLOCATE MEMORY BY VALUE! see generator example
 
 # List of numbers
 numbers = [6, 5, 3, 8, 4, 2, 5, 4, 11]
