@@ -1,0 +1,3 @@
+[submodule "Fluent-Multi-Logger"]
+	path = Fluent-Multi-Logger
+	url = https://github.com/Jorgeley/Fluent-Multi-Logger.git
